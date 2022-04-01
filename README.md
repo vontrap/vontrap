@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @vontrap
 - 👀 I’m interested in Development Operations
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different projects
+- ..
 - 📫 How to reach me ...
 
 <!---
