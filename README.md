@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Abas
 - 👀 I’m interested in Development Operations
 - 🌱 I’m currently working on my self
-- 💞️ I’m looking to collaborate on different cloud projects
-- 📫 How to reach me : twitter cK_vontrap
+- 💞️ I’m looking to collaborate on different cloud projects 
+- How to reach me : twitter cK_vontrap 
